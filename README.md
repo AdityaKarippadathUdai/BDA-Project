@@ -39,8 +39,9 @@ This project addresses both concerns: it uses **Apache Spark (PySpark) and MLlib
 
 <div align="center">
 
-<img src="./assets/training-animation.svg" width="100%"/>
-
+<img 
+src="https://raw.githubusercontent.com/AdityaKarippadathUdai/BDA-Project/main/assets/training-animation.svg"
+width="100%"/>
 </div>
 
 
